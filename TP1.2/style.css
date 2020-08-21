@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {height: 6.25em; background-color: #8397f0; float: left; }
+
+nav { height: 3.125em; background-color: #8397f0; float: left; }
+
+aside { width: 18.4375em; background-color: #8397f0; float: left; height: 25em; margin-right: 0.3125em; }
+
+section	{ width: 695px; background-color: #8397f0; float: left; height: 25em; margin-left: 0.3125em; padding: 1.25em; }
+
+footer { height: 6.25em; background-color: #8397f0; float: left; }
+
+article { height: 18.75em; background-color: #5f79ec; padding: 1.25em; }
+
+details { height: 12.5em; background-color: #2f45a5; padding: 1.25em }
